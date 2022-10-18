@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(66, 92, 16);
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(218, 243, 169);
+    padding: 0 20px 20px 20px;
+    border: border: 2px solid white;
+}
+
+.header {
+    font-size: 32px;
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(33, 33, 34);
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px white;
+}
+
+img {
+    width: 800px;
+    border-radius: 16px;
+}
+
+.banner {
+    display: block;
+    width: 760px;
+    padding: 16px 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    background: #edf853;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.text {
+    width: 800px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+}
